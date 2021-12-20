@@ -1,9 +1,9 @@
 # ucalgary-enel45
 ENEL Final Project Submission on R-FCN by Group-4
 
-a) Minaoar Hossain Tanzil
+Minaoar Hossain Tanzil
 
-b) Aadharsh Hariharan
+Aadharsh Hariharan
 
 
 Instructions to run:
